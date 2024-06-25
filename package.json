@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "cypress": "^13.11.0",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "name": "cypress-brico",
+  "version": "0.0.1",
+  "description": "proof of concept - brico test automation",
+  "main": "cypress.config.js",
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Artur Gawron",
+  "license": "ISC"
+}

@@ -1,0 +1,9 @@
+version: '3'
+
+tasks:
+  setup:
+    cmds:
+      - echo $GREETING
+    env:
+      GREETING: Hey, there!
+    silent: true
